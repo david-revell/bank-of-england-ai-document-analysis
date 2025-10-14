@@ -1,6 +1,6 @@
 # Bank of England: AI Document Analysis
 
-This repository contains the final deliverables for a data science project completed as part of the University of Cambridge Data Science Career Accelerator. The project was conducted in collaboration with the Bank of England and focuses on the automated analysis of company earnings documents using AI techniques.
+This repository contains the final deliverables for a data science project completed as part of the University of Cambridge Data Science Career Accelerator. The project was developed for the Bank of England and presented to their data scientists. It focuses on the automated analysis of company earnings documents using AI techniques.
 
 ### Project Overview
 
