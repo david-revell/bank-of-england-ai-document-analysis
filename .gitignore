@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Local-only artifacts
+images/
+CODE_ALIGNED_DOCS.md
+notebook/Team4_CAM_EP_Assignment3_notebook_AgentRAG.docx
+notebook/Team4_CAM_EP_Assignment3_notebook_AgentRAG.md
+ps-scripts/
